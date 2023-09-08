@@ -1,4 +1,4 @@
- <a href="https://www.linkedin.com/in/syed-hassan-ul-haq-851446247" target="_blank">
+ <a href="https://www.linkedin.com/in/laiba-khan-34833522b/" target="_blank">
 <p align="center">
 
 <div align='center'>
@@ -21,7 +21,7 @@
 
 ## <img src='socials.png' height=40/> Socials:
 <div>
- <a href="https://www.linkedin.com/in/syed-hassan-ul-haq-851446247" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/laiba-khan-34833522b/" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="laebakhan441@gmail.com"><img align="left" alt="Laiba gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://reddit.com/u/laebakhan1/s/S6hDmMWuEm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="laebakhan1" height="30" width="40" /></a></div>
 
