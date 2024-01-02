@@ -12,7 +12,7 @@
 <a href='giphy.gif'>
 <img align='right' src='giphy.gif' widht=100 height=200></a>
 
-# <img src='AboutMe.png' height=65/>  About Me:
+# <img src='Me.png' height=65/>  About Me:
 
 - Hello🤍, my name is <a href="https://www.linkedin.com/in/laiba-khan-34833522b/" target="blank">Laiba Khan,👨‍💻</a> and I'm currently studying at UIT University, pursuing degree of Bachelor's in Computer Science. Python🐍 is my favourite programming Language and Chisel/Scala are my favourite HDLs, and I love solving issues. One of the areas where I gained the most knowledge was GitHub. Aim to contribute to the developer community and the opensource world.
 ------
