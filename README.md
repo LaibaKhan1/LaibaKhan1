@@ -25,7 +25,7 @@
 <a href="laebakhan441@gmail.com"><img align="left" alt="Laiba gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://reddit.com/u/laebakhan1/s/S6hDmMWuEm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="laebakhan1" height="30" width="40" /></a></div>
 
-## <img src='techstack.png' height=40/> Tech Stack:
+## <img src='techstack.jpg' height=40/> Tech Stack:
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=css,html,bootstrap,py,django,mysql,postgresql,js,java,c,scala,git" />
 </div>
